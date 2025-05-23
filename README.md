@@ -20,7 +20,7 @@
 
 💼 Atualmente atuando como Analista de Sistemas na Asa Branca Indl. Coml. e Importadora LTDA.
 
-🛠️ Especializado em ERP TOTVS Protheus, com forte conhecimento em SQL e suporte técnico.
+🛠️ Especializado em ERP TOTVS Protheus, com forte conhecimento em SQL,JS (React and NodeJS)
 
 🌱 Sempre em busca de novos conhecimentos e desafios na área de tecnologia.
 
