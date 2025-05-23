@@ -29,7 +29,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,totvs,git,github,linux,windows" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=sql,totvs,git,github,windows,js,ts,materialui,mysql,nextjs,nodejs,postgres,postman,py,react,tailwind,vscode," alt="Tecnologias" />
 </p>
 
 ---
@@ -54,15 +54,9 @@
 
 ---
 
-## 🐍 Animação de Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/ronaldobonifacio/ronaldobonifacio/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato
 
-- 📧 Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- 📧 Email: [ronaldo.casbonifacio@gmail.com](mailto:ronaldo.casbonifacio@gmail.com)
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/ronaldo-correia-alves-santos-bonifácio-52266935/](https://www.linkedin.com/in/ronaldo-correia-alves-santos-bonifácio-52266935/)
 
