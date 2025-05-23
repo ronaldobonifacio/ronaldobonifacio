@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Sistemas | Especialista em ERP TOTVS Protheus | SQL e Suporte Técnico</h3>
 
 <p align="center">
-  <a href="https://github.com/ronaldobonifacio">
+  <a align="left" href="https://github.com/ronaldobonifacio">
     <img src="https://komarev.com/ghpvc/?username=ronaldobonifacio&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldobonifacio" />
   </a>
   <a href="https://github.com/ronaldobonifacio?tab=followers">
